@@ -6,7 +6,7 @@ class GameObject {
         id, 
         speed, 
         defaultX, 
-        defaultyY,
+        defaultY,
       
     ) {
         this.game = game
