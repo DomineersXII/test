@@ -1,3 +1,4 @@
+//pong
 class GameObject {
     constructor(
         game,
